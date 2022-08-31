@@ -1,2 +1,4 @@
-# test_intro
-Aplha bank test
+# Alpha Bank test
+
+- Statistical analysis of AAPL, Meta, GOOGL
+- Classification model
